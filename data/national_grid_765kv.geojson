@@ -1,0 +1,1667 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID_1": 152,
+        "OBJECTID": 152,
+        "ID": "100170",
+        "TYPE": "AC; OVERHEAD",
+        "STATUS": "IN SERVICE",
+        "NAICS_CODE": "221121",
+        "NAICS_DESC": "ELECTRIC BULK POWER TRANSMISSION AND CONTROL",
+        "SOURCE": "IMAGERY, OpenStreetMap, https://www.nao.usace.army.mil/Portals/31/docs/NAO-14-0373-Project-Drawings.pdf?ver=2014-02-07-092204-003",
+        "SOURCEDATE": "Tue, 17 Jun 2014 00:00:00 GMT",
+        "VAL_METHOD": "IMAGERY",
+        "VAL_DATE": "Mon, 25 Mar 2019 00:00:00 GMT",
+        "OWNER": "APPALACHIAN POWER CO",
+        "VOLTAGE": 765.0,
+        "VOLT_CLASS": "735 AND ABOVE",
+        "INFERRED": "N",
+        "SUB_1": "CLOVERDALE 765KV",
+        "SUB_2": "JACKSONS FERRY",
+        "Shape__Len": 131776.00631536497
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.8231702542395,
+            36.8791621951811
+          ],
+          [
+            -79.9005870599746,
+            37.3744711661008
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID_1": 4456,
+        "OBJECTID": 4456,
+        "ID": "105137",
+        "TYPE": "AC; OVERHEAD",
+        "STATUS": "IN SERVICE",
+        "NAICS_CODE": "221121",
+        "NAICS_DESC": "ELECTRIC BULK POWER TRANSMISSION AND CONTROL",
+        "SOURCE": "IMAGERY, OpenStreetMap, http://www.pjm.com/pub/account/trans-fac/aepsct.xls",
+        "SOURCEDATE": "Tue, 31 Mar 2015 00:00:00 GMT",
+        "VAL_METHOD": "IMAGERY",
+        "VAL_DATE": "Fri, 12 Feb 2016 00:00:00 GMT",
+        "OWNER": "COMED",
+        "VOLTAGE": 765.0,
+        "VOLT_CLASS": "735 AND ABOVE",
+        "INFERRED": "N",
+        "SUB_1": "WILTON",
+        "SUB_2": "DUMONT",
+        "Shape__Len": 194386.4310739606
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.3604513440776,
+            41.5234788611839
+          ],
+          [
+            -87.952694290366,
+            41.3983829122208
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID_1": 4519,
+        "OBJECTID": 4519,
+        "ID": "105214",
+        "TYPE": "AC; OVERHEAD",
+        "STATUS": "IN SERVICE",
+        "NAICS_CODE": "221121",
+        "NAICS_DESC": "ELECTRIC BULK POWER TRANSMISSION AND CONTROL",
+        "SOURCE": "IMAGERY, OpenStreetMap, http://www.pjm.com/pub/account/trans-fac/aepsct.xls, EIA 861",
+        "SOURCEDATE": "Thu, 07 May 2015 00:00:00 GMT",
+        "VAL_METHOD": "IMAGERY",
+        "VAL_DATE": "Fri, 02 Oct 2015 00:00:00 GMT",
+        "OWNER": "APPALACHIAN POWER CO",
+        "VOLTAGE": 765.0,
+        "VOLT_CLASS": "735 AND ABOVE",
+        "INFERRED": "N",
+        "SUB_1": "CULLODEN",
+        "SUB_2": "WYOMING",
+        "Shape__Len": 119681.01668927753
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -81.6775942865649,
+            37.6579408692422
+          ],
+          [
+            -82.080227339237,
+            38.414646577852
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID_1": 4814,
+        "OBJECTID": 4814,
+        "ID": "105541",
+        "TYPE": "AC; OVERHEAD",
+        "STATUS": "IN SERVICE",
+        "NAICS_CODE": "221121",
+        "NAICS_DESC": "ELECTRIC BULK POWER TRANSMISSION AND CONTROL",
+        "SOURCE": "IMAGERY, OpenStreetMap, http://www.pjm.com/pub/account/trans-fac/aepsct.xls",
+        "SOURCEDATE": "Tue, 31 Mar 2015 00:00:00 GMT",
+        "VAL_METHOD": "IMAGERY",
+        "VAL_DATE": "Tue, 29 Sep 2015 00:00:00 GMT",
+        "OWNER": "COMMONWEALTH EDISON CO",
+        "VOLTAGE": 765.0,
+        "VOLT_CLASS": "735 AND ABOVE",
+        "INFERRED": "Y",
+        "SUB_1": "COLLINS",
+        "SUB_2": "PLANO (765 KV)",
+        "Shape__Len": 74288.42568235785
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.347140591612,
+            41.3527523489386
+          ],
+          [
+            -88.4791696720117,
+            41.6835236457284
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID_1": 5392,
+        "OBJECTID": 5392,
+        "ID": "106187",
+        "TYPE": "OVERHEAD",
+        "STATUS": "NOT AVAILABLE",
+        "NAICS_CODE": "221121",
+        "NAICS_DESC": "ELECTRIC BULK POWER TRANSMISSION AND CONTROL",
+        "SOURCE": "IMAGERY, http://pjm.com/~/media/documents/reports/2012-rtep/2012-rtep-book-5.ashx",
+        "SOURCEDATE": "Fri, 17 Jul 2015 00:00:00 GMT",
+        "VAL_METHOD": "IMAGERY",
+        "VAL_DATE": "Thu, 28 Jan 2021 00:00:00 GMT",
+        "OWNER": "OHIO POWER CO",
+        "VOLTAGE": 765.0,
+        "VOLT_CLASS": "735 AND ABOVE",
+        "INFERRED": "Y",
+        "SUB_1": "GAVIN",
+        "SUB_2": "NOT AVAILABLE",
+        "Shape__Len": 1121.021557436698
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.1175013149841,
+            38.9358123980127
+          ],
+          [
+            -82.1200089998289,
+            38.9412880003113
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID_1": 6076,
+        "OBJECTID": 6076,
+        "ID": "106970",
+        "TYPE": "OVERHEAD",
+        "STATUS": "NOT AVAILABLE",
+        "NAICS_CODE": "221121",
+        "NAICS_DESC": "ELECTRIC BULK POWER TRANSMISSION AND CONTROL",
+        "SOURCE": "IMAGERY, EIA 861, EIA 860",
+        "SOURCEDATE": "Wed, 07 Oct 2015 00:00:00 GMT",
+        "VAL_METHOD": "IMAGERY",
+        "VAL_DATE": "Tue, 19 Jan 2021 00:00:00 GMT",
+        "OWNER": "OHIO POWER CO",
+        "VOLTAGE": 765.0,
+        "VOLT_CLASS": "735 AND ABOVE",
+        "INFERRED": "Y",
+        "SUB_1": "HANGING ROCK ENERGY FACILITY",
+        "SUB_2": "NOT AVAILABLE",
+        "Shape__Len": 235.8693419277903
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.7818399997283,
+            38.5730150002608
+          ],
+          [
+            -82.7839559957531,
+            38.5729290437956
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID_1": 7499,
+        "OBJECTID": 7499,
+        "ID": "108622",
+        "TYPE": "AC; OVERHEAD",
+        "STATUS": "IN SERVICE",
+        "NAICS_CODE": "221121",
+        "NAICS_DESC": "ELECTRIC BULK POWER TRANSMISSION AND CONTROL",
+        "SOURCE": "IMAGERY, EIA 861, EIA 860",
+        "SOURCEDATE": "Thu, 08 Dec 2016 00:00:00 GMT",
+        "VAL_METHOD": "IMAGERY",
+        "VAL_DATE": "Mon, 24 Apr 2017 00:00:00 GMT",
+        "OWNER": "NOT AVAILABLE",
+        "VOLTAGE": 765.0,
+        "VOLT_CLASS": "735 AND ABOVE",
+        "INFERRED": "Y",
+        "SUB_1": "UNKNOWN140084",
+        "SUB_2": "KAMMER (765KV)",
+        "Shape__Len": 1782.2801491620405
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.8193554505877,
+            39.8398369846805
+          ],
+          [
+            -80.8060000355619,
+            39.8334526511231
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID_1": 7921,
+        "OBJECTID": 7921,
+        "ID": "109099",
+        "TYPE": "AC; OVERHEAD",
+        "STATUS": "IN SERVICE",
+        "NAICS_CODE": "221121",
+        "NAICS_DESC": "ELECTRIC BULK POWER TRANSMISSION AND CONTROL",
+        "SOURCE": "IMAGERY, OpenStreetMap, http://www.pjm.com/~/media/documents/reports/2012-rtep/2012-rtep-book-5.ashx",
+        "SOURCEDATE": "Fri, 19 Sep 2014 00:00:00 GMT",
+        "VAL_METHOD": "IMAGERY",
+        "VAL_DATE": "Thu, 19 Oct 2017 00:00:00 GMT",
+        "OWNER": "NOT AVAILABLE",
+        "VOLTAGE": 765.0,
+        "VOLT_CLASS": "735 AND ABOVE",
+        "INFERRED": "N",
+        "SUB_1": "BAKER",
+        "SUB_2": "HANGING ROCK",
+        "Shape__Len": 63299.79267087129
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.7741909995943,
+            38.5690180001133
+          ],
+          [
+            -82.6098913897985,
+            38.1813687613378
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID_1": 8304,
+        "OBJECTID": 8304,
+        "ID": "109538",
+        "TYPE": "AC; OVERHEAD",
+        "STATUS": "NOT AVAILABLE",
+        "NAICS_CODE": "221121",
+        "NAICS_DESC": "ELECTRIC BULK POWER TRANSMISSION AND CONTROL",
+        "SOURCE": "IMAGERY, http://pjm.com/~/media/documents/reports/2012-rtep/2012-rtep-book-5.ashx",
+        "SOURCEDATE": "Thu, 10 Sep 2015 00:00:00 GMT",
+        "VAL_METHOD": "IMAGERY",
+        "VAL_DATE": "Thu, 10 Sep 2015 00:00:00 GMT",
+        "OWNER": "WHEELING POWER CO",
+        "VOLTAGE": 765.0,
+        "VOLT_CLASS": "735 AND ABOVE",
+        "INFERRED": "N",
+        "SUB_1": "KAMMER (765KV)",
+        "SUB_2": "NOT AVAILABLE",
+        "Shape__Len": 1246.4386804955127
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.8060000355619,
+            39.8334526511231
+          ],
+          [
+            -80.8156711964011,
+            39.8291194119261
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID_1": 9496,
+        "OBJECTID": 9496,
+        "ID": "110903",
+        "TYPE": "AC; OVERHEAD",
+        "STATUS": "IN SERVICE",
+        "NAICS_CODE": "221121",
+        "NAICS_DESC": "ELECTRIC BULK POWER TRANSMISSION AND CONTROL",
+        "SOURCE": "IMAGERY, OpenStreetMap, http://www.nyiso.com/public/webdocs/markets_operations/services/planning/Planning_Studies/Reliability_Planning_Studies/Reliability_Assessment_Documents/2012_Comprehensive_Reliability_Plan_Final_Report.pdf",
+        "SOURCEDATE": "Tue, 12 May 2015 00:00:00 GMT",
+        "VAL_METHOD": "IMAGERY",
+        "VAL_DATE": "Tue, 05 Mar 2019 00:00:00 GMT",
+        "OWNER": "NIAGARA MOHAWK POWER CORP.",
+        "VOLTAGE": 765.0,
+        "VOLT_CLASS": "735 AND ABOVE",
+        "INFERRED": "N",
+        "SUB_1": "MASSENA",
+        "SUB_2": "MARCY",
+        "Shape__Len": 301729.2763555306
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.8337955980245,
+            44.9192265711909
+          ],
+          [
+            -75.2225257358613,
+            43.1787144309948
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID_1": 10830,
+        "OBJECTID": 10830,
+        "ID": "112427",
+        "TYPE": "AC; OVERHEAD",
+        "STATUS": "IN SERVICE",
+        "NAICS_CODE": "221121",
+        "NAICS_DESC": "ELECTRIC BULK POWER TRANSMISSION AND CONTROL",
+        "SOURCE": "IMAGERY, OpenStreetMap, http://www.pjm.com/",
+        "SOURCEDATE": "Tue, 17 Jun 2014 00:00:00 GMT",
+        "VAL_METHOD": "IMAGERY",
+        "VAL_DATE": "Fri, 02 Oct 2015 00:00:00 GMT",
+        "OWNER": "APPALACHIAN POWER CO",
+        "VOLTAGE": 765.0,
+        "VOLT_CLASS": "735 AND ABOVE",
+        "INFERRED": "N",
+        "SUB_1": "AXTON",
+        "SUB_2": "JACKSONS FERRY",
+        "Shape__Len": 147800.99115224427
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.8231702542395,
+            36.8791621951811
+          ],
+          [
+            -79.7047789005529,
+            36.6345503073513
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID_1": 12401,
+        "OBJECTID": 12401,
+        "ID": "114236",
+        "TYPE": "AC; OVERHEAD",
+        "STATUS": "IN SERVICE",
+        "NAICS_CODE": "221121",
+        "NAICS_DESC": "ELECTRIC BULK POWER TRANSMISSION AND CONTROL",
+        "SOURCE": "IMAGERY, http://www.pjm.com/pub/account/trans-fac/aepsct.xls",
+        "SOURCEDATE": "Fri, 19 Sep 2014 00:00:00 GMT",
+        "VAL_METHOD": "IMAGERY",
+        "VAL_DATE": "Thu, 26 Mar 2020 00:00:00 GMT",
+        "OWNER": "NOT AVAILABLE",
+        "VOLTAGE": 765.0,
+        "VOLT_CLASS": "735 AND ABOVE",
+        "INFERRED": "Y",
+        "SUB_1": "JEFFERSON",
+        "SUB_2": "HANGING ROCK",
+        "Shape__Len": 332673.949464215
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.7741909995943,
+            38.5690180001133
+          ],
+          [
+            -85.438273216344,
+            38.7418300766579
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID_1": 14072,
+        "OBJECTID": 14072,
+        "ID": "116142",
+        "TYPE": "AC; OVERHEAD",
+        "STATUS": "IN SERVICE",
+        "NAICS_CODE": "221121",
+        "NAICS_DESC": "ELECTRIC BULK POWER TRANSMISSION AND CONTROL",
+        "SOURCE": "IMAGERY, OpenStreetMap, http://www.purdue.edu/discoverypark/energy/assets/pdfs/cctr/researchReports/IU-IGCC_Final_Report_2008/Appendix2.pdf",
+        "SOURCEDATE": "Fri, 22 May 2015 00:00:00 GMT",
+        "VAL_METHOD": "IMAGERY",
+        "VAL_DATE": "Tue, 29 Sep 2015 00:00:00 GMT",
+        "OWNER": "NOT AVAILABLE",
+        "VOLTAGE": 765.0,
+        "VOLT_CLASS": "735 AND ABOVE",
+        "INFERRED": "N",
+        "SUB_1": "SULLIVAN",
+        "SUB_2": "ROCKPORT STATION",
+        "Shape__Len": 199853.8898808543
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.0294724325616,
+            37.9297149201704
+          ],
+          [
+            -87.5444503801922,
+            39.2358152081267
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID_1": 16651,
+        "OBJECTID": 16651,
+        "ID": "119137",
+        "TYPE": "AC; OVERHEAD",
+        "STATUS": "IN SERVICE",
+        "NAICS_CODE": "221121",
+        "NAICS_DESC": "ELECTRIC BULK POWER TRANSMISSION AND CONTROL",
+        "SOURCE": "IMAGERY, http://pjm.com/~/media/documents/reports/2012-rtep/2012-rtep-book-5.ashx",
+        "SOURCEDATE": "Tue, 25 Oct 2016 00:00:00 GMT",
+        "VAL_METHOD": "IMAGERY",
+        "VAL_DATE": "Tue, 25 Oct 2016 00:00:00 GMT",
+        "OWNER": "NOT AVAILABLE",
+        "VOLTAGE": 765.0,
+        "VOLT_CLASS": "735 AND ABOVE",
+        "INFERRED": "N",
+        "SUB_1": "UNKNOWN151647",
+        "SUB_2": "CORRIDOR",
+        "Shape__Len": 22080.967153489863
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -83.0114779015713,
+            40.1816913121478
+          ],
+          [
+            -82.8465998476995,
+            40.2307283892559
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID_1": 16975,
+        "OBJECTID": 16975,
+        "ID": "119511",
+        "TYPE": "AC; OVERHEAD",
+        "STATUS": "IN SERVICE",
+        "NAICS_CODE": "221121",
+        "NAICS_DESC": "ELECTRIC BULK POWER TRANSMISSION AND CONTROL",
+        "SOURCE": "IMAGERY, OpenStreetMap, http://www.pjm.com/pub/account/trans-fac/aepsct.xls",
+        "SOURCEDATE": "Wed, 08 Apr 2015 00:00:00 GMT",
+        "VAL_METHOD": "IMAGERY",
+        "VAL_DATE": "Fri, 17 Jul 2015 00:00:00 GMT",
+        "OWNER": "DUKE ENERGY INDIANA, LLC",
+        "VOLTAGE": 765.0,
+        "VOLT_CLASS": "735 AND ABOVE",
+        "INFERRED": "Y",
+        "SUB_1": "JEFFERSON",
+        "SUB_2": "GREENTOWN",
+        "Shape__Len": 262295.963226149
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -85.438273216344,
+            38.7418300766579
+          ],
+          [
+            -85.9153294831448,
+            40.4734625277079
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID_1": 19111,
+        "OBJECTID": 19111,
+        "ID": "121948",
+        "TYPE": "AC; OVERHEAD",
+        "STATUS": "IN SERVICE",
+        "NAICS_CODE": "221121",
+        "NAICS_DESC": "ELECTRIC BULK POWER TRANSMISSION AND CONTROL",
+        "SOURCE": "IMAGERY, OpenStreetMap, EIA 861, EIA 860",
+        "SOURCEDATE": "Tue, 17 Jun 2014 00:00:00 GMT",
+        "VAL_METHOD": "IMAGERY",
+        "VAL_DATE": "Fri, 12 Feb 2016 00:00:00 GMT",
+        "OWNER": "APPALACHIAN POWER CO",
+        "VOLTAGE": 765.0,
+        "VOLT_CLASS": "735 AND ABOVE",
+        "INFERRED": "N",
+        "SUB_1": "JACKSONS FERRY",
+        "SUB_2": "WYOMING",
+        "Shape__Len": 181961.96399670854
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.8231702542395,
+            36.8791621951811
+          ],
+          [
+            -81.6775942865649,
+            37.6579408692422
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID_1": 19163,
+        "OBJECTID": 19163,
+        "ID": "122006",
+        "TYPE": "AC; OVERHEAD",
+        "STATUS": "IN SERVICE",
+        "NAICS_CODE": "221121",
+        "NAICS_DESC": "ELECTRIC BULK POWER TRANSMISSION AND CONTROL",
+        "SOURCE": "IMAGERY, http://pjm.com/~/media/documents/reports/2012-rtep/2012-rtep-book-5.ashx",
+        "SOURCEDATE": "Wed, 23 Sep 2015 00:00:00 GMT",
+        "VAL_METHOD": "IMAGERY",
+        "VAL_DATE": "Thu, 26 Mar 2020 00:00:00 GMT",
+        "OWNER": "AMERICAN ELECTRIC POWER CO., INC",
+        "VOLTAGE": 765.0,
+        "VOLT_CLASS": "735 AND ABOVE",
+        "INFERRED": "N",
+        "SUB_1": "HANGING ROCK",
+        "SUB_2": "DON MARQUIS 765 KV",
+        "Shape__Len": 72647.42896149302
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.7741909995943,
+            38.5690180001133
+          ],
+          [
+            -83.0107548026834,
+            39.0223367228716
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID_1": 19882,
+        "OBJECTID": 19882,
+        "ID": "122829",
+        "TYPE": "AC; OVERHEAD",
+        "STATUS": "IN SERVICE",
+        "NAICS_CODE": "221121",
+        "NAICS_DESC": "ELECTRIC BULK POWER TRANSMISSION AND CONTROL",
+        "SOURCE": "IMAGERY, OpenStreetMap, http://www.pjm.com/pub/account/trans-fac/aepsct.xls",
+        "SOURCEDATE": "Mon, 06 Jul 2015 00:00:00 GMT",
+        "VAL_METHOD": "IMAGERY",
+        "VAL_DATE": "Fri, 17 Jul 2015 00:00:00 GMT",
+        "OWNER": "AMERICAN ELECTRIC POWER CO., INC",
+        "VOLTAGE": 765.0,
+        "VOLT_CLASS": "735 AND ABOVE",
+        "INFERRED": "N",
+        "SUB_1": "JOHN AMOS",
+        "SUB_2": "MOUNTAINTEER",
+        "Shape__Len": 96388.85319849843
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -81.8294378907671,
+            38.4737105071772
+          ],
+          [
+            -81.9425218737273,
+            38.9759317701078
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID_1": 23252,
+        "OBJECTID": 23252,
+        "ID": "126697",
+        "TYPE": "AC; OVERHEAD",
+        "STATUS": "IN SERVICE",
+        "NAICS_CODE": "221121",
+        "NAICS_DESC": "ELECTRIC BULK POWER TRANSMISSION AND CONTROL",
+        "SOURCE": "IMAGERY, OpenStreetMap, http://www.pjm.com/pub/account/trans-fac/aepsct.xls",
+        "SOURCEDATE": "Wed, 06 May 2015 00:00:00 GMT",
+        "VAL_METHOD": "IMAGERY",
+        "VAL_DATE": "Thu, 19 Oct 2017 00:00:00 GMT",
+        "OWNER": "NOT AVAILABLE",
+        "VOLTAGE": 765.0,
+        "VOLT_CLASS": "735 AND ABOVE",
+        "INFERRED": "N",
+        "SUB_1": "BAKER",
+        "SUB_2": "CULLODEN",
+        "Shape__Len": 69997.58622193636
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.080227339237,
+            38.414646577852
+          ],
+          [
+            -82.6098913897985,
+            38.1813687613378
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID_1": 24376,
+        "OBJECTID": 24376,
+        "ID": "127966",
+        "TYPE": "AC; OVERHEAD",
+        "STATUS": "IN SERVICE",
+        "NAICS_CODE": "221121",
+        "NAICS_DESC": "ELECTRIC BULK POWER TRANSMISSION AND CONTROL",
+        "SOURCE": "IMAGERY, OpenStreetMap, http://www.pjm.com/~/media/documents/reports/2012-rtep/2012-rtep-book-5.ashx",
+        "SOURCEDATE": "Fri, 19 Sep 2014 00:00:00 GMT",
+        "VAL_METHOD": "IMAGERY",
+        "VAL_DATE": "Thu, 19 Oct 2017 00:00:00 GMT",
+        "OWNER": "NOT AVAILABLE",
+        "VOLTAGE": 765.0,
+        "VOLT_CLASS": "735 AND ABOVE",
+        "INFERRED": "N",
+        "SUB_1": "BAKER",
+        "SUB_2": "BROADFORD (765 KV)",
+        "Shape__Len": 256425.6252644338
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -81.6796453281065,
+            36.9216769799334
+          ],
+          [
+            -82.6098913897985,
+            38.1813687613378
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID_1": 24487,
+        "OBJECTID": 24487,
+        "ID": "128094",
+        "TYPE": "AC; OVERHEAD",
+        "STATUS": "IN SERVICE",
+        "NAICS_CODE": "221121",
+        "NAICS_DESC": "ELECTRIC BULK POWER TRANSMISSION AND CONTROL",
+        "SOURCE": "IMAGERY, OpenStreetMap, http://www.pjm.com/pub/account/trans-fac/aepsct.xls",
+        "SOURCEDATE": "Wed, 08 Apr 2015 00:00:00 GMT",
+        "VAL_METHOD": "IMAGERY",
+        "VAL_DATE": "Fri, 17 Jul 2015 00:00:00 GMT",
+        "OWNER": "NOT AVAILABLE",
+        "VOLTAGE": 765.0,
+        "VOLT_CLASS": "735 AND ABOVE",
+        "INFERRED": "Y",
+        "SUB_1": "GREENTOWN",
+        "SUB_2": "DUMONT",
+        "Shape__Len": 167569.43607865775
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.3604513440776,
+            41.5234788611839
+          ],
+          [
+            -85.9153294831448,
+            40.4734625277079
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID_1": 27306,
+        "OBJECTID": 27306,
+        "ID": "131315",
+        "TYPE": "AC; OVERHEAD",
+        "STATUS": "NOT AVAILABLE",
+        "NAICS_CODE": "221121",
+        "NAICS_DESC": "ELECTRIC BULK POWER TRANSMISSION AND CONTROL",
+        "SOURCE": "IMAGERY, EIA 861",
+        "SOURCEDATE": "Thu, 10 Sep 2015 00:00:00 GMT",
+        "VAL_METHOD": "IMAGERY",
+        "VAL_DATE": "Mon, 24 Apr 2017 00:00:00 GMT",
+        "OWNER": "APPALACHIAN POWER CO",
+        "VOLTAGE": 765.0,
+        "VOLT_CLASS": "735 AND ABOVE",
+        "INFERRED": "Y",
+        "SUB_1": "MOUNTAINTEER",
+        "SUB_2": "NOT AVAILABLE",
+        "Shape__Len": 1013.0231180650395
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -81.9425218737273,
+            38.9759317701078
+          ],
+          [
+            -81.9345427678791,
+            38.9793333752352
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID_1": 28989,
+        "OBJECTID": 28989,
+        "ID": "133261",
+        "TYPE": "AC; OVERHEAD",
+        "STATUS": "IN SERVICE",
+        "NAICS_CODE": "221121",
+        "NAICS_DESC": "ELECTRIC BULK POWER TRANSMISSION AND CONTROL",
+        "SOURCE": "IMAGERY, EIA 861, EIA 860",
+        "SOURCEDATE": "Wed, 23 Sep 2015 00:00:00 GMT",
+        "VAL_METHOD": "IMAGERY",
+        "VAL_DATE": "Fri, 09 Mar 2018 00:00:00 GMT",
+        "OWNER": "OHIO POWER CO",
+        "VOLTAGE": 765.0,
+        "VOLT_CLASS": "735 AND ABOVE",
+        "INFERRED": "Y",
+        "SUB_1": "HANGING ROCK ENERGY FACILITY",
+        "SUB_2": "HANGING ROCK",
+        "Shape__Len": 1070.0015013553243
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.7741909995943,
+            38.5690180001133
+          ],
+          [
+            -82.7818399997283,
+            38.5730150002608
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID_1": 29611,
+        "OBJECTID": 29611,
+        "ID": "133972",
+        "TYPE": "AC; OVERHEAD",
+        "STATUS": "IN SERVICE",
+        "NAICS_CODE": "221121",
+        "NAICS_DESC": "ELECTRIC BULK POWER TRANSMISSION AND CONTROL",
+        "SOURCE": "IMAGERY, http://pjm.com/~/media/documents/reports/2012-rtep/2012-rtep-book-5.ashx",
+        "SOURCEDATE": "Mon, 01 Aug 2016 00:00:00 GMT",
+        "VAL_METHOD": "IMAGERY",
+        "VAL_DATE": "Wed, 25 Mar 2020 00:00:00 GMT",
+        "OWNER": "NOT AVAILABLE",
+        "VOLTAGE": 765.0,
+        "VOLT_CLASS": "735 AND ABOVE",
+        "INFERRED": "N",
+        "SUB_1": "UNKNOWN151647",
+        "SUB_2": "KAMMER (765KV)",
+        "Shape__Len": 245060.42974598936
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.8465998476995,
+            40.2307283892559
+          ],
+          [
+            -80.8060000355619,
+            39.8334526511231
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID_1": 29663,
+        "OBJECTID": 29663,
+        "ID": "134030",
+        "TYPE": "AC; OVERHEAD",
+        "STATUS": "IN SERVICE",
+        "NAICS_CODE": "221121",
+        "NAICS_DESC": "ELECTRIC BULK POWER TRANSMISSION AND CONTROL",
+        "SOURCE": "IMAGERY, OpenStreetMap, https://www.nao.usace.army.mil/Portals/31/docs/NAO-14-0373-Project-Drawings.pdf?ver=2014-02-07-092204-003",
+        "SOURCEDATE": "Tue, 17 Jun 2014 00:00:00 GMT",
+        "VAL_METHOD": "IMAGERY",
+        "VAL_DATE": "Mon, 25 Mar 2019 00:00:00 GMT",
+        "OWNER": "APPALACHIAN POWER CO",
+        "VOLTAGE": 765.0,
+        "VOLT_CLASS": "735 AND ABOVE",
+        "INFERRED": "N",
+        "SUB_1": "CLOVERDALE 765KV",
+        "SUB_2": "JOSHUA FALLS",
+        "Shape__Len": 114690.60754959252
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.9005870599746,
+            37.3744711661008
+          ],
+          [
+            -79.0362122652795,
+            37.4253943937892
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID_1": 29912,
+        "OBJECTID": 29912,
+        "ID": "134312",
+        "TYPE": "AC; OVERHEAD",
+        "STATUS": "IN SERVICE",
+        "NAICS_CODE": "221121",
+        "NAICS_DESC": "ELECTRIC BULK POWER TRANSMISSION AND CONTROL",
+        "SOURCE": "IMAGERY, http://pjm.com/~/media/documents/reports/2012-rtep/2012-rtep-book-5.ashx",
+        "SOURCEDATE": "Wed, 23 Sep 2015 00:00:00 GMT",
+        "VAL_METHOD": "IMAGERY",
+        "VAL_DATE": "Fri, 20 Mar 2020 00:00:00 GMT",
+        "OWNER": "AMERICAN ELECTRIC POWER CO., INC",
+        "VOLTAGE": 765.0,
+        "VOLT_CLASS": "735 AND ABOVE",
+        "INFERRED": "N",
+        "SUB_1": "NORTH PROCTORVILLE SUBSTATION",
+        "SUB_2": "HANGING ROCK",
+        "Shape__Len": 53623.85305296344
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.3955507749612,
+            38.4775064787149
+          ],
+          [
+            -82.7741909995943,
+            38.5690180001133
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID_1": 31160,
+        "OBJECTID": 31160,
+        "ID": "135738",
+        "TYPE": "AC; OVERHEAD",
+        "STATUS": "IN SERVICE",
+        "NAICS_CODE": "221121",
+        "NAICS_DESC": "ELECTRIC BULK POWER TRANSMISSION AND CONTROL",
+        "SOURCE": "OpenStreetMap, http://www.pjm.com/pub/account/trans-fac/aepsct.xls",
+        "SOURCEDATE": "Thu, 07 Aug 2014 00:00:00 GMT",
+        "VAL_METHOD": "IMAGERY",
+        "VAL_DATE": "Wed, 23 Sep 2015 00:00:00 GMT",
+        "OWNER": "AMERICAN ELECTRIC POWER CO., INC",
+        "VOLTAGE": 765.0,
+        "VOLT_CLASS": "735 AND ABOVE",
+        "INFERRED": "N",
+        "SUB_1": "CORRIDOR",
+        "SUB_2": "MARYSVILLE",
+        "Shape__Len": 53064.83344012644
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -83.4304579999138,
+            40.3327489999833
+          ],
+          [
+            -83.0114779015713,
+            40.1816913121478
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID_1": 31690,
+        "OBJECTID": 31690,
+        "ID": "136346",
+        "TYPE": "AC; OVERHEAD",
+        "STATUS": "IN SERVICE",
+        "NAICS_CODE": "221121",
+        "NAICS_DESC": "ELECTRIC BULK POWER TRANSMISSION AND CONTROL",
+        "SOURCE": "IMAGERY, OpenStreetMap, http://www.pjm.com/pub/account/trans-fac/aepsct.xls",
+        "SOURCEDATE": "Mon, 01 Aug 2016 00:00:00 GMT",
+        "VAL_METHOD": "IMAGERY",
+        "VAL_DATE": "Mon, 01 Aug 2016 00:00:00 GMT",
+        "OWNER": "NOT AVAILABLE",
+        "VOLTAGE": 765.0,
+        "VOLT_CLASS": "735 AND ABOVE",
+        "INFERRED": "N",
+        "SUB_1": "GAVIN",
+        "SUB_2": "CULLODEN",
+        "Shape__Len": 87163.86884802514
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.080227339237,
+            38.414646577852
+          ],
+          [
+            -82.1200089998289,
+            38.9412880003113
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID_1": 33013,
+        "OBJECTID": 33013,
+        "ID": "137885",
+        "TYPE": "AC; OVERHEAD",
+        "STATUS": "IN SERVICE",
+        "NAICS_CODE": "221121",
+        "NAICS_DESC": "ELECTRIC BULK POWER TRANSMISSION AND CONTROL",
+        "SOURCE": "IMAGERY, OpenStreetMap",
+        "SOURCEDATE": "Mon, 01 Aug 2016 00:00:00 GMT",
+        "VAL_METHOD": "IMAGERY",
+        "VAL_DATE": "Mon, 24 Apr 2017 00:00:00 GMT",
+        "OWNER": "NOT AVAILABLE",
+        "VOLTAGE": 765.0,
+        "VOLT_CLASS": "735 AND ABOVE",
+        "INFERRED": "Y",
+        "SUB_1": "NORTH PROCTORVILLE SUBSTATION",
+        "SUB_2": "JOHN AMOS",
+        "Shape__Len": 66065.19033330536
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.3955507749612,
+            38.4775064787149
+          ],
+          [
+            -81.8294378907671,
+            38.4737105071772
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID_1": 33497,
+        "OBJECTID": 33497,
+        "ID": "138430",
+        "TYPE": "AC; OVERHEAD",
+        "STATUS": "IN SERVICE",
+        "NAICS_CODE": "221121",
+        "NAICS_DESC": "ELECTRIC BULK POWER TRANSMISSION AND CONTROL",
+        "SOURCE": "IMAGERY, OpenStreetMap, http://www.pjm.com/",
+        "SOURCEDATE": "Tue, 17 Jun 2014 00:00:00 GMT",
+        "VAL_METHOD": "IMAGERY",
+        "VAL_DATE": "Fri, 22 Sep 2017 00:00:00 GMT",
+        "OWNER": "APPALACHIAN POWER CO",
+        "VOLTAGE": 765.0,
+        "VOLT_CLASS": "735 AND ABOVE",
+        "INFERRED": "N",
+        "SUB_1": "JACKSONS FERRY",
+        "SUB_2": "BROADFORD (765 KV)",
+        "Shape__Len": 98455.1234216303
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -81.6796453281065,
+            36.9216769799334
+          ],
+          [
+            -80.8231702542395,
+            36.8791621951811
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID_1": 33684,
+        "OBJECTID": 33684,
+        "ID": "138640",
+        "TYPE": "AC; OVERHEAD",
+        "STATUS": "IN SERVICE",
+        "NAICS_CODE": "221121",
+        "NAICS_DESC": "ELECTRIC BULK POWER TRANSMISSION AND CONTROL",
+        "SOURCE": "IMAGERY, http://pjm.com/~/media/documents/reports/2012-rtep/2012-rtep-book-5.ashx",
+        "SOURCEDATE": "Mon, 01 Aug 2016 00:00:00 GMT",
+        "VAL_METHOD": "IMAGERY",
+        "VAL_DATE": "Tue, 24 Mar 2020 00:00:00 GMT",
+        "OWNER": "OHIO POWER CO",
+        "VOLTAGE": 765.0,
+        "VOLT_CLASS": "735 AND ABOVE",
+        "INFERRED": "N",
+        "SUB_1": "KAMMER (765KV)",
+        "SUB_2": "SOUTH CANTON 765KV",
+        "Shape__Len": 168385.4104522573
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.8060000355619,
+            39.8334526511231
+          ],
+          [
+            -81.4161556221172,
+            40.7156663472524
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID_1": 34994,
+        "OBJECTID": 34994,
+        "ID": "140165",
+        "TYPE": "AC; OVERHEAD",
+        "STATUS": "IN SERVICE",
+        "NAICS_CODE": "221121",
+        "NAICS_DESC": "ELECTRIC BULK POWER TRANSMISSION AND CONTROL",
+        "SOURCE": "IMAGERY, http://pjm.com/~/media/documents/reports/2012-rtep/2012-rtep-book-5.ashx",
+        "SOURCEDATE": "Mon, 01 Aug 2016 00:00:00 GMT",
+        "VAL_METHOD": "IMAGERY",
+        "VAL_DATE": "Mon, 01 Aug 2016 00:00:00 GMT",
+        "OWNER": "NOT AVAILABLE",
+        "VOLTAGE": 765.0,
+        "VOLT_CLASS": "735 AND ABOVE",
+        "INFERRED": "N",
+        "SUB_1": "GAVIN",
+        "SUB_2": "MOUNTAINTEER",
+        "Shape__Len": 22853.89389104218
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -81.9425218737273,
+            38.9759317701078
+          ],
+          [
+            -82.1200089998289,
+            38.9412880003113
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID_1": 36141,
+        "OBJECTID": 36141,
+        "ID": "141495",
+        "TYPE": "AC; OVERHEAD",
+        "STATUS": "IN SERVICE",
+        "NAICS_CODE": "221121",
+        "NAICS_DESC": "ELECTRIC BULK POWER TRANSMISSION AND CONTROL",
+        "SOURCE": "IMAGERY, OpenStreetMap, http://www.pjm.com/pub/account/trans-fac/aepsct.xls",
+        "SOURCEDATE": "Mon, 01 Aug 2016 00:00:00 GMT",
+        "VAL_METHOD": "IMAGERY",
+        "VAL_DATE": "Mon, 01 Aug 2016 00:00:00 GMT",
+        "OWNER": "INDIANA MICHIGAN POWER CO",
+        "VOLTAGE": 765.0,
+        "VOLT_CLASS": "735 AND ABOVE",
+        "INFERRED": "N",
+        "SUB_1": "COOK",
+        "SUB_2": "DUMONT",
+        "Shape__Len": 77521.49962845344
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.5559433917408,
+            41.9741455803029
+          ],
+          [
+            -86.3604513440776,
+            41.5234788611839
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID_1": 36944,
+        "OBJECTID": 36944,
+        "ID": "142415",
+        "TYPE": "AC; OVERHEAD",
+        "STATUS": "IN SERVICE",
+        "NAICS_CODE": "221121",
+        "NAICS_DESC": "ELECTRIC BULK POWER TRANSMISSION AND CONTROL",
+        "SOURCE": "IMAGERY, OpenStreetMap, http://www.pjm.com/pub/account/trans-fac/aepsct.xls, EIA 861",
+        "SOURCEDATE": "Thu, 07 May 2015 00:00:00 GMT",
+        "VAL_METHOD": "IMAGERY",
+        "VAL_DATE": "Fri, 02 Oct 2015 00:00:00 GMT",
+        "OWNER": "APPALACHIAN POWER CO",
+        "VOLTAGE": 765.0,
+        "VOLT_CLASS": "735 AND ABOVE",
+        "INFERRED": "N",
+        "SUB_1": "CULLODEN",
+        "SUB_2": "JOHN AMOS",
+        "Shape__Len": 31481.01599021703
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.080227339237,
+            38.414646577852
+          ],
+          [
+            -81.8294378907671,
+            38.4737105071772
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID_1": 37151,
+        "OBJECTID": 37151,
+        "ID": "142641",
+        "TYPE": "AC; OVERHEAD",
+        "STATUS": "IN SERVICE",
+        "NAICS_CODE": "221121",
+        "NAICS_DESC": "ELECTRIC BULK POWER TRANSMISSION AND CONTROL",
+        "SOURCE": "IMAGERY, OpenStreetMap, http://www.pjm.com/pub/account/trans-fac/aepsct.xls",
+        "SOURCEDATE": "Wed, 08 Apr 2015 00:00:00 GMT",
+        "VAL_METHOD": "IMAGERY",
+        "VAL_DATE": "Fri, 17 Jul 2015 00:00:00 GMT",
+        "OWNER": "NOT AVAILABLE",
+        "VOLTAGE": 765.0,
+        "VOLT_CLASS": "735 AND ABOVE",
+        "INFERRED": "Y",
+        "SUB_1": "JEFFERSON",
+        "SUB_2": "ROCKPORT STATION",
+        "Shape__Len": 227570.49923288097
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.0294724325616,
+            37.9297149201704
+          ],
+          [
+            -85.438273216344,
+            38.7418300766579
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID_1": 38886,
+        "OBJECTID": 38886,
+        "ID": "144591",
+        "TYPE": "OVERHEAD",
+        "STATUS": "NOT AVAILABLE",
+        "NAICS_CODE": "221121",
+        "NAICS_DESC": "ELECTRIC BULK POWER TRANSMISSION AND CONTROL",
+        "SOURCE": "IMAGERY, http://pjm.com/~/media/documents/reports/2012-rtep/2012-rtep-book-5.ashx",
+        "SOURCEDATE": "Wed, 07 Oct 2015 00:00:00 GMT",
+        "VAL_METHOD": "IMAGERY",
+        "VAL_DATE": "Mon, 25 Jan 2021 00:00:00 GMT",
+        "OWNER": "OHIO POWER CO",
+        "VOLTAGE": 765.0,
+        "VOLT_CLASS": "735 AND ABOVE",
+        "INFERRED": "Y",
+        "SUB_1": "FLATLICK",
+        "SUB_2": "NOT AVAILABLE",
+        "Shape__Len": 101.37368249964534
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.3321344967363,
+            39.0848778042599
+          ],
+          [
+            -82.3312910101256,
+            39.0851442407984
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID_1": 39020,
+        "OBJECTID": 39020,
+        "ID": "144740",
+        "TYPE": "AC; OVERHEAD",
+        "STATUS": "IN SERVICE",
+        "NAICS_CODE": "221121",
+        "NAICS_DESC": "ELECTRIC BULK POWER TRANSMISSION AND CONTROL",
+        "SOURCE": "IMAGERY, http://pjm.com/~/media/documents/reports/2012-rtep/2012-rtep-book-5.ashx",
+        "SOURCEDATE": "Tue, 22 Sep 2015 00:00:00 GMT",
+        "VAL_METHOD": "IMAGERY",
+        "VAL_DATE": "Tue, 24 Mar 2020 00:00:00 GMT",
+        "OWNER": "AMERICAN ELECTRIC POWER CO., INC",
+        "VOLTAGE": 765.0,
+        "VOLT_CLASS": "735 AND ABOVE",
+        "INFERRED": "N",
+        "SUB_1": "FLATLICK",
+        "SUB_2": "GAVIN",
+        "Shape__Len": 31789.987925833935
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.3312910101256,
+            39.0851442407984
+          ],
+          [
+            -82.1200089998289,
+            38.9412880003113
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID_1": 39584,
+        "OBJECTID": 39584,
+        "ID": "145385",
+        "TYPE": "AC; OVERHEAD",
+        "STATUS": "IN SERVICE",
+        "NAICS_CODE": "221121",
+        "NAICS_DESC": "ELECTRIC BULK POWER TRANSMISSION AND CONTROL",
+        "SOURCE": "IMAGERY, http://pjm.com/~/media/documents/reports/2012-rtep/2012-rtep-book-5.ashx",
+        "SOURCEDATE": "Tue, 22 Sep 2015 00:00:00 GMT",
+        "VAL_METHOD": "IMAGERY",
+        "VAL_DATE": "Fri, 27 Mar 2020 00:00:00 GMT",
+        "OWNER": "AMERICAN ELECTRIC POWER CO., INC",
+        "VOLTAGE": 765.0,
+        "VOLT_CLASS": "735 AND ABOVE",
+        "INFERRED": "N",
+        "SUB_1": "FLATLICK",
+        "SUB_2": "MARYSVILLE",
+        "Shape__Len": 228723.00388095807
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -83.4304579999138,
+            40.3327489999833
+          ],
+          [
+            -82.3312910101256,
+            39.0851442407984
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID_1": 39758,
+        "OBJECTID": 39758,
+        "ID": "145581",
+        "TYPE": "AC; OVERHEAD",
+        "STATUS": "IN SERVICE",
+        "NAICS_CODE": "221121",
+        "NAICS_DESC": "ELECTRIC BULK POWER TRANSMISSION AND CONTROL",
+        "SOURCE": "IMAGERY, OpenStreetMap, http://www.pjm.com/pub/account/trans-fac/aepsct.xls",
+        "SOURCEDATE": "Wed, 08 Jul 2015 00:00:00 GMT",
+        "VAL_METHOD": "IMAGERY",
+        "VAL_DATE": "Fri, 17 Jul 2015 00:00:00 GMT",
+        "OWNER": "AMERICAN ELECTRIC POWER CO., INC",
+        "VOLTAGE": 765.0,
+        "VOLT_CLASS": "735 AND ABOVE",
+        "INFERRED": "N",
+        "SUB_1": "BELMONT",
+        "SUB_2": "MOUNTAINTEER",
+        "Shape__Len": 137842.22452206683
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -81.9425218737273,
+            38.9759317701078
+          ],
+          [
+            -81.3086396919354,
+            39.3447649519724
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID_1": 41918,
+        "OBJECTID": 41918,
+        "ID": "148056",
+        "TYPE": "AC; OVERHEAD",
+        "STATUS": "NOT AVAILABLE",
+        "NAICS_CODE": "221121",
+        "NAICS_DESC": "ELECTRIC BULK POWER TRANSMISSION AND CONTROL",
+        "SOURCE": "IMAGERY, EIA 861",
+        "SOURCEDATE": "Thu, 10 Sep 2015 00:00:00 GMT",
+        "VAL_METHOD": "IMAGERY",
+        "VAL_DATE": "Mon, 24 Apr 2017 00:00:00 GMT",
+        "OWNER": "APPALACHIAN POWER CO",
+        "VOLTAGE": 765.0,
+        "VOLT_CLASS": "735 AND ABOVE",
+        "INFERRED": "Y",
+        "SUB_1": "JOHN AMOS",
+        "SUB_2": "NOT AVAILABLE",
+        "Shape__Len": 746.8202471608155
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -81.8294378907671,
+            38.4737105071772
+          ],
+          [
+            -81.8227512450172,
+            38.4732840132638
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID_1": 42698,
+        "OBJECTID": 42698,
+        "ID": "148960",
+        "TYPE": "AC; OVERHEAD",
+        "STATUS": "IN SERVICE",
+        "NAICS_CODE": "221121",
+        "NAICS_DESC": "ELECTRIC BULK POWER TRANSMISSION AND CONTROL",
+        "SOURCE": "IMAGERY, http://pjm.com/~/media/documents/reports/2012-rtep/2012-rtep-book-5.ashx",
+        "SOURCEDATE": "Fri, 10 Jul 2015 00:00:00 GMT",
+        "VAL_METHOD": "IMAGERY",
+        "VAL_DATE": "Mon, 13 Jul 2015 00:00:00 GMT",
+        "OWNER": "MONONGAHELA POWER CO",
+        "VOLTAGE": 765.0,
+        "VOLT_CLASS": "735 AND ABOVE",
+        "INFERRED": "N",
+        "SUB_1": "KAMMER (765KV)",
+        "SUB_2": "BELMONT",
+        "Shape__Len": 101915.01685948262
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -81.3086396919354,
+            39.3447649519724
+          ],
+          [
+            -80.8060000355619,
+            39.8334526511231
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID_1": 42742,
+        "OBJECTID": 42742,
+        "ID": "149013",
+        "TYPE": "AC; OVERHEAD",
+        "STATUS": "IN SERVICE",
+        "NAICS_CODE": "221121",
+        "NAICS_DESC": "ELECTRIC BULK POWER TRANSMISSION AND CONTROL",
+        "SOURCE": "IMAGERY, OpenStreetMap, http://www.pjm.com/pub/account/trans-fac/aepsct.xls",
+        "SOURCEDATE": "Tue, 31 Mar 2015 00:00:00 GMT",
+        "VAL_METHOD": "IMAGERY",
+        "VAL_DATE": "Fri, 17 Jul 2015 00:00:00 GMT",
+        "OWNER": "COMED",
+        "VOLTAGE": 765.0,
+        "VOLT_CLASS": "735 AND ABOVE",
+        "INFERRED": "N",
+        "SUB_1": "COLLINS",
+        "SUB_2": "WILTON",
+        "Shape__Len": 59016.4689752651
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.347140591612,
+            41.3527523489386
+          ],
+          [
+            -87.952694290366,
+            41.3983829122208
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID_1": 44241,
+        "OBJECTID": 44241,
+        "ID": "150760",
+        "TYPE": "OVERHEAD",
+        "STATUS": "NOT AVAILABLE",
+        "NAICS_CODE": "221121",
+        "NAICS_DESC": "ELECTRIC BULK POWER TRANSMISSION AND CONTROL",
+        "SOURCE": "IMAGERY, OpenStreetMap, http://www.pjm.com/pub/account/trans-fac/aepsct.xls",
+        "SOURCEDATE": "Wed, 08 Apr 2015 00:00:00 GMT",
+        "VAL_METHOD": "IMAGERY",
+        "VAL_DATE": "Tue, 26 Jan 2021 00:00:00 GMT",
+        "OWNER": "SOUTHERN INDIANA GAS & ELEC CO",
+        "VOLTAGE": 765.0,
+        "VOLT_CLASS": "735 AND ABOVE",
+        "INFERRED": "Y",
+        "SUB_1": "ROCKPORT STATION",
+        "SUB_2": "NOT AVAILABLE",
+        "Shape__Len": 989.6247667624655
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.0294724325616,
+            37.9297149201704
+          ],
+          [
+            -87.0341019417008,
+            37.9256571067937
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID_1": 47173,
+        "OBJECTID": 47173,
+        "ID": "158556",
+        "TYPE": "AC; OVERHEAD",
+        "STATUS": "IN SERVICE",
+        "NAICS_CODE": "221121",
+        "NAICS_DESC": "ELECTRIC BULK POWER TRANSMISSION AND CONTROL",
+        "SOURCE": "IMAGERY, http://www.nyiso.com/public/webdocs/markets_operations/services/planning/Planning_Studies/Reliability_Planning_Studies/Reliability_Assessment_Documents/2012_Comprehensive_Reliability_Plan_Final_Report.pdf",
+        "SOURCEDATE": "Fri, 19 Jun 2015 00:00:00 GMT",
+        "VAL_METHOD": "IMAGERY",
+        "VAL_DATE": "Mon, 28 Sep 2015 00:00:00 GMT",
+        "OWNER": "NOT AVAILABLE",
+        "VOLTAGE": 765.0,
+        "VOLT_CLASS": "735 AND ABOVE",
+        "INFERRED": "N",
+        "SUB_1": "MASSENA",
+        "SUB_2": "NOT AVAILABLE",
+        "Shape__Len": 127541.77121043726
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.8337955980245,
+            44.9192265711909
+          ],
+          [
+            -73.8686844702749,
+            45.2501792071204
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID_1": 51578,
+        "OBJECTID": 51578,
+        "ID": "163163",
+        "TYPE": "AC; OVERHEAD",
+        "STATUS": "IN SERVICE",
+        "NAICS_CODE": "221121",
+        "NAICS_DESC": "ELECTRIC BULK POWER TRANSMISSION AND CONTROL",
+        "SOURCE": "IMAGERY, OpenStreetMap, http://www.pjm.com/pub/account/trans-fac/aepsct.xls",
+        "SOURCEDATE": "Wed, 08 Apr 2015 00:00:00 GMT",
+        "VAL_METHOD": "IMAGERY",
+        "VAL_DATE": "Tue, 22 Jan 2019 00:00:00 GMT",
+        "OWNER": "INDIANA MICHIGAN POWER CO",
+        "VOLTAGE": 765.0,
+        "VOLT_CLASS": "735 AND ABOVE",
+        "INFERRED": "N",
+        "SUB_1": "SORENSON",
+        "SUB_2": "MARYSVILLE",
+        "Shape__Len": 248320.92049412048
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -85.3417559503789,
+            40.9834482211281
+          ],
+          [
+            -83.4304579999138,
+            40.3327489999833
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID_1": 51579,
+        "OBJECTID": 51579,
+        "ID": "163166",
+        "TYPE": "AC; OVERHEAD",
+        "STATUS": "IN SERVICE",
+        "NAICS_CODE": "221121",
+        "NAICS_DESC": "ELECTRIC BULK POWER TRANSMISSION AND CONTROL",
+        "SOURCE": "IMAGERY, OpenStreetMap, http://www.pjm.com/pub/account/trans-fac/aepsct.xls",
+        "SOURCEDATE": "Tue, 22 Jan 2019 00:00:00 GMT",
+        "VAL_METHOD": "IMAGERY",
+        "VAL_DATE": "Tue, 22 Jan 2019 00:00:00 GMT",
+        "OWNER": "INDIANA MICHIGAN POWER CO",
+        "VOLTAGE": 765.0,
+        "VOLT_CLASS": "735 AND ABOVE",
+        "INFERRED": "N",
+        "SUB_1": "SORENSON",
+        "SUB_2": "DUMONT",
+        "Shape__Len": 156613.38033691698
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -85.3417559503789,
+            40.9834482211281
+          ],
+          [
+            -86.3604513440776,
+            41.5234788611839
+          ]
+        ]
+      }
+    }
+  ],
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  }
+}
