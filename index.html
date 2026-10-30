@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>765 kV transmission lines</title>
+  <script src="https://api.mapbox.com/mapbox-gl-js/v3.15.0/mapbox-gl.js"></script>
+  <link href="https://api.mapbox.com/mapbox-gl-js/v3.15.0/mapbox-gl.css" rel="stylesheet">
+  <style>
+    html, body, #map { height: 100%; margin: 0; }
+    #map { min-height: 500px; }
+  </style>
+</head>
+<body>
+  <div id="map"></div>
+
+  <script>
+    mapboxgl.accessToken = "pk.eyJ1IjoicGtpZWZlciIsImEiOiJjbWx6bjFuYXcwOTNzM2dxMjh6em0zbTZoIn0.j1UEScoxbAWOIUDnjvfXOA";
+
+    const map = new mapboxgl.Map({
+      container: "map",
+      style: "mapbox://styles/mapbox/light-v11",
+      center: [-98.5, 39.5],
+      zoom: 3.5
+    });
+
+    map.addControl(new mapboxgl.NavigationControl());
+
+    map.on("load", () => {
+      map.addSource("765kv-lines", {
+        type: "geojson",
+        data: "data/national_grid_765kv.geojson"
+      });
+
+      map.addLayer({
+        id: "765kv-lines",
+        type: "line",
+        source: "765kv-lines",
+        paint: {
+          "line-color": "#f47920",
+          "line-width": ["interpolate", ["linear"], ["zoom"], 3, 1.5, 8, 4],
+          "line-opacity": 0.85
+        }
+      });
+
+      map.on("click", "765kv-lines", (event) => {
+        const properties = event.features[0].properties || {};
+        const rows = Object.entries(properties)
+          .map(([key, value]) => `<strong>${key}</strong>: ${value ?? ""}`)
+          .join("<br>");
+
+        new mapboxgl.Popup()
+          .setLngLat(event.lngLat)
+          .setHTML(rows || "765 kV transmission line")
+          .addTo(map);
+      });
+
+      map.on("mouseenter", "765kv-lines", () => {
+        map.getCanvas().style.cursor = "pointer";
+      });
+
+      map.on("mouseleave", "765kv-lines", () => {
+        map.getCanvas().style.cursor = "";
+      });
+    });
+  </script>
+</body>
+</html>
